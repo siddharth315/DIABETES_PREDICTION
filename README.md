@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Flask](https://img.shields.io/badge/Flask-WebApp-black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Model-green)
+
 # Diabetes Prediction Using Machine Learning
 
 A Machine Learning-based web application that predicts the likelihood of Diabetes using medical parameters. The system is built using Python and Flask and provides real-time predictions through a simple web interface.
@@ -106,3 +110,4 @@ python app.py
 ```bash
 http://127.0.0.1:5000/
 ```
+
